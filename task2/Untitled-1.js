@@ -1,5 +1,5 @@
 
-
+// set local storage rent1 with value 0 , rent2 with value 0 , rent3 with value 0 rent4 with value 0
 // car 1 
 document.getElementById("btn").addEventListener("click",myFunction1)
 function myFunction1(){
